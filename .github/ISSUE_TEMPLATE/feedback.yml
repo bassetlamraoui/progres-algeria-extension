@@ -1,0 +1,12 @@
+name: 💬 General Feedback
+description: Leave thoughts, opinions, or praise
+title: "[Feedback] "
+labels: [feedback]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: Share your opinion, experience, or suggestions
+    validations:
+      required: true
