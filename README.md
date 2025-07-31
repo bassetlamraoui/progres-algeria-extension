@@ -39,33 +39,16 @@ You’ll now see the extension icon in your Chrome toolbar!
 
 ---
 
-## 🔒 Permissions
-
-- `activeTab`: Used to inject the extension UI on the Progres website
-- Access only to: `https://progres.mesrs.dz`
-- ✅ This extension does **not** collect, store, or share any user data
-
----
-
 ## 📚 About This Project
 
 This tool was built by a student, for students — aiming to make the Progres portal faster and more user-friendly. It’s an **unofficial** project with no affiliation to MESRS.
 
 ---
 
-## 📈 Roadmap
-
-- ✅ Side panel interface with navigation
-- ✅ Academic year switching
-- ⏳ Dark mode support
-- ⏳ GPA calculator
-- ⏳ Notifications for new grades or schedules
-
----
-
 ## 🤝 Contributing
 
-Feel free to open an [Issue](https://github.com/bassetlamraoui/progres-algeria-extension/issues) or submit a pull request if you have suggestions or improvements.
+Feel free to open an [Issue](https://github.com/bassetlamraoui/progres-algeria-extension/issues) or submit a pull request if you have suggestions or improvements.  
+📣 **Have an idea or bug to report?** [Create an issue here »](https://github.com/bassetlamraoui/progres-algeria-extension/issues/new/choose)
 
 ---
 
@@ -77,9 +60,10 @@ Licensed under the MIT License — free to use, modify, and distribute.
 
 ## 🔗 Useful Links
 
-- 🔽 [Latest Release (.crx)](https://github.com/bassetlamraoui/progres-algeria-extension/releases/latest)
-- 🌐 [Official Progres Portal](https://progres.mesrs.dz)
+- 🔽 [Latest Release (.crx)](https://github.com/bassetlamraoui/progres-algeria-extension/releases/latest)  
+- 🌐 [Official Progres Portal](https://progres.mesrs.dz)  
+- 🛠 [Report an Issue or Request a Feature](https://github.com/bassetlamraoui/progres-algeria-extension/issues)
 
 ---
 
-> Made with ❤️ in Algeria by **Abdelbasset Lamraoui**
+> Made  in Algeria by **Abdelbasset Lamraoui**
