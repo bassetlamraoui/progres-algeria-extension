@@ -50,11 +50,6 @@ This tool was built by a student, for students — aiming to make the Progres po
 Feel free to open an [Issue](https://github.com/bassetlamraoui/progres-algeria-extension/issues) or submit a pull request if you have suggestions or improvements.  
 📣 **Have an idea or bug to report?** [Create an issue here »](https://github.com/bassetlamraoui/progres-algeria-extension/issues/new/choose)
 
----
-
-## 📄 License
-
-Licensed under the MIT License — free to use, modify, and distribute.
 
 ---
 
