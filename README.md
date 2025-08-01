@@ -30,6 +30,7 @@
 ### 🔗 From GitHub (.crx)
 
 [Download the latest `.rar` release](https://github.com/bassetlamraoui/progres-algeria-extension/releases/latest)
+Extract the [Progress.Algeria.extention.rar] file to a folder on your computer
 Open Chrome and go to: chrome://extensions/
 Enable Developer Mode (top-right toggle)
 Click “Load unpacked” and select the extracted folder
