@@ -29,13 +29,13 @@
 
 ### 🔗 From GitHub (.crx)
 
-[Download the latest `.rar` release](https://github.com/bassetlamraoui/progres-algeria-extension/releases/latest)
-Extract the [Progress.Algeria.extention.rar] file to a folder on your computer
-Open Chrome and go to: chrome://extensions/
-Enable Developer Mode (top-right toggle)
-Click “Load unpacked” and select the extracted folder
-🎉 You’ll now see the extension icon in your Chrome toolbar!
-You’ll now see the extension icon in your Chrome toolbar!
+1.[Download the latest `.rar` release](https://github.com/bassetlamraoui/progres-algeria-extension/releases/latest)
+2.Extract the [Progress.Algeria.extention.rar] file to a folder on your computer
+3.Open Chrome and go to: chrome://extensions/
+4.Enable Developer Mode (top-right toggle)
+5.Click “Load unpacked” and select the extracted folder
+6.🎉 You’ll now see the extension icon in your Chrome toolbar!
+7.You’ll now see the extension icon in your Chrome toolbar!
 
 ---
 
